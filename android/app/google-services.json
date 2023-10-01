@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "788489929186",
+    "firebase_url": "https://otombelakam-cb8ef-default-rtdb.firebaseio.com",
+    "project_id": "otombelakam-cb8ef",
+    "storage_bucket": "otombelakam-cb8ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788489929186:android:4fe8a5c75e956703f679bb",
+        "android_client_info": {
+          "package_name": "com.otombelakam.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788489929186-v3uupaomg7vn50b16j468t12et3b6c5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.otombelakam.myapp",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "788489929186-leu8ovku2qv2ekiv8t3pv9vm8qh0kqgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrZCRiUfnTB-wMK_Um8sA0ZPSF1xo3_yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788489929186-8gm0qa28f4keooocp87lfali13mut38p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "788489929186-cep1dult2hofvrr6cstslf3q865cibsa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.otombelakam.myauto"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
